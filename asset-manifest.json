@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CC1_React/static/css/main.4a6e5093.css",
+    "main.js": "/CC1_React/static/js/main.de2da8b2.js",
+    "static/js/787.01fa3fc8.chunk.js": "/CC1_React/static/js/787.01fa3fc8.chunk.js",
+    "static/media/img4.jpg": "/CC1_React/static/media/img4.5fe8923d800835cfd855.jpg",
+    "static/media/img2.jpg": "/CC1_React/static/media/img2.d09a458356f768270e64.jpg",
+    "static/media/img5.jpg": "/CC1_React/static/media/img5.91d348463fa13287a69d.jpg",
+    "static/media/img3.jpg": "/CC1_React/static/media/img3.7a85129876a54ae3e2c4.jpg",
+    "static/media/img1.jpg": "/CC1_React/static/media/img1.adc5db2a7a2f3e51f0e9.jpg",
+    "static/media/Sun.svg": "/CC1_React/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "index.html": "/CC1_React/index.html",
+    "static/media/Moon.svg": "/CC1_React/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "static/media/left-arrow.svg": "/CC1_React/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
+    "static/media/right-arrow.svg": "/CC1_React/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
+    "main.4a6e5093.css.map": "/CC1_React/static/css/main.4a6e5093.css.map",
+    "main.de2da8b2.js.map": "/CC1_React/static/js/main.de2da8b2.js.map",
+    "787.01fa3fc8.chunk.js.map": "/CC1_React/static/js/787.01fa3fc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a6e5093.css",
+    "static/js/main.de2da8b2.js"
+  ]
+}
