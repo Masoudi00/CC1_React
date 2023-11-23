@@ -1,0 +1,22 @@
+.image-slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .image-slider img {
+    margin-top: 90px;
+    max-width: 50%;
+    max-height: 300px; /* Adjust this to your preferred height */
+  }
+  
+  .image-slider button {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+  }
+  
+  /* You can add more CSS styles to customize the slider's appearance. */
+  
