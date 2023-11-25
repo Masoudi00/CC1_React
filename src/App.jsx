@@ -5,6 +5,7 @@ import Calculator from './Pages/Calculator';
 import Contact from './Pages/Contact';
 import TodoList from './Pages/TodoList';
 import Api from './Pages/Api'
+import MultiLangues from './Pages/MultiLangues';
 import DarkMode from './DarkMode';
 import { useDarkMode } from './DarkModeContext';
 
@@ -47,7 +48,10 @@ const App = () => {
             <li className="nav-item">
                   <Link to="/ApiCall" className="site-title nav-link active">Api Call</Link>
             </li>
-            
+            <li className="nav-item">
+                  <Link to="/MultiLangues" className="site-title nav-link active">MultiLangues</Link>
+            </li>
+
             
             <li className="nav-item">
 <DarkMode />          
@@ -69,6 +73,8 @@ const App = () => {
     <Route path="/Contact" element={<Contact />} />
     <Route path="/TodoList" element={<TodoList />} />
     <Route path="/ApiCall" element={<Api />} />
+    <Route path="/MultiLangues" element={<MultiLangues />} />
+
 
 
   </Routes>
