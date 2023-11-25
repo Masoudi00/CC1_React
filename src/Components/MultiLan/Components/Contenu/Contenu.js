@@ -12,8 +12,8 @@ export default function Contenu() {
 
     return (
         <div className='content'>
-            <h1 className="title">{data[lang].title}</h1>
-            <p className="content-txt">{data[lang].txt}</p>
+            <h1 >{data[lang].title}</h1>
+            <p >{data[lang].txt}</p>
         </div>
     )
 }
